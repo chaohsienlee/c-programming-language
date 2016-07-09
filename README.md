@@ -6,7 +6,7 @@
 * 閱讀者可從本教材練習C程式設計之實作。
 * 閱讀者可從本教材學習基礎排序演算法。
 
-1. Introduction
+1. [Introduction]{chapter1.md}
 2. First C Program – Hello World
 3. Keywords、Declaration、Data Type、Basic I/O
 4. Expression、Operators
