@@ -1,5 +1,5 @@
 # Summary
 
 * [Syllabus](README.md)
-* [First Chapter](chapter1.md)
+* [Class 1: Introduction](chapter1.md)
 
