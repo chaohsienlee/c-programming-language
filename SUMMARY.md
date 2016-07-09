@@ -2,7 +2,7 @@
 
 * [Syllabus](README.md)
 * [Class 1: Introduction](chapter1.md)
-* Class 2: Hello World
+* [Class 2: Hello World](chapter2.md)
 * Class 3:
 * Class 4:
 * Class 5:
