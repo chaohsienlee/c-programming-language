@@ -12,21 +12,21 @@
 
 ### 教學單元
 1. [Introduction](chapter1.md)
-2. First C Program – Hello World
-3. Keywords、Declaration、Data Type、Basic I/O
-4. Expression、Operators
-5. Selection - If
-6. Selection - Switch-Case
-7. Loop – For
-8. Loop – While & Do-While
-9. Array
-10. Sorting Algorithms
-11. Pointer
-12. Function
-13. Recursion
-14. String Handling
-15. File Handling
-16. Structure
-17. Union、Enum
+2. [First C Program – Hello World](chapter2.md)
+3. [Keywords、Declaration、Data Type、Basic I/O](chapter3.md)
+4. [Expression、Operators](chapter4.md)
+5. [Selection - If](chapter5.md)
+6. [Selection - Switch-Case](chapter6.md)
+7. [Loop – For](chapter7.md)
+8. [Loop – While & Do-While](chapter8.md)
+9. [Array](chapter9.md)
+10. [Sorting Algorithms](chapter10.md)
+11. [Pointer](chapter11.md)
+12. [Function](chapter12.md)
+13. [Recursion](chapter13.md)
+14. [String Handling](chapter14.md)
+15. [File Handling](chapter15.md)
+16. [Structure](chapter16.md)
+17. [Union、Enum](chapter17.md)
 
 
